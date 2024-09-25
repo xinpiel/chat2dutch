@@ -1,0 +1,14 @@
+{
+  "daily_target": 10,
+  "milestones_rewards": [
+    {
+      "milestone": 1000,
+      "reward": "good restaurant to eat"
+    },
+    {
+      "milestone": 10000,
+      "reward": "a nice pair of shoes"
+    }
+  ],
+  "total_words_learned": 11
+}
